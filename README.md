@@ -1,5 +1,11 @@
 # RunThru - AI-Powered QA Screen Recording Agent
 
+https://www.runthru.co/
+
+<img width="1540" alt="Screenshot 2025-06-12 at 5 45 55 PM" src="https://github.com/user-attachments/assets/83951a20-813d-4f78-8ba5-90a26a3cd418" />
+
+
+
 An intelligent system that automatically creates demo videos by executing web user flows with screen recording and synthetic narration capabilities.
 
 ## Features
