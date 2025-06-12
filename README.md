@@ -1,4 +1,4 @@
-# RunThru - AI-Powered QA Screen Recording Agent
+# RunThru - AI-Powered QA Screen Recording Agent - OpeAI Hack - 4th Rank 
 
 https://www.runthru.co/
 
