@@ -6,25 +6,44 @@ https://www.runthru.co/
 
 
 
-An intelligent system that automatically creates demo videos by executing web user flows with screen recording and synthetic narration capabilities.
+# 🎥 AI-Powered Demo Video Generator
 
-## Features
+An intelligent system that **automatically creates demo videos** by executing web user flows with **screen recording** and **synthetic narration** capabilities.
 
-- **AI Test Generation**: Uses OpenAI GPT-4o to generate detailed test steps from natural language descriptions
-- **Automated Browser Control**: Playwright-powered browser automation for reliable test execution
-- **Screen Recording**: Captures high-quality video recordings of test workflows
-- **AI Narration**: Generates professional voiceover scripts and speech using OpenAI's text-to-speech
-- **Video Composition**: Creates polished demo videos with avatar overlays and synchronized audio
-- **Real-time Progress**: WebSocket-powered real-time updates during recording sessions
+---
 
-## Core Technologies
+## 🚀 Features
 
-- **Frontend**: React with Vite, TypeScript, TailwindCSS
-- **Backend**: Express.js with TypeScript
-- **AI Integration**: OpenAI GPT-4o for test generation and narration, OpenAI TTS for voiceover
-- **Browser Automation**: Playwright for reliable cross-browser testing
-- **Video Processing**: FFmpeg for video composition and editing
-- **Real-time Communication**: WebSocket for live progress updates
+- 🧠 **AI Test Generation** – Powered by GPT-4o to convert natural language into structured test steps  
+- 🧪 **Automated Browser Control** – Uses Playwright for robust and repeatable test flows  
+- 🎥 **Screen Recording** – Captures crisp video of each step in the testing workflow  
+- 🗣️ **AI Narration** – Auto-generates professional voiceovers with OpenAI TTS  
+- 🎬 **Video Composition** – Creates polished demo videos with avatar overlay and synchronized audio  
+- 📡 **Real-time Progress** – WebSocket-based live status updates during test execution  
+
+---
+
+## 🛠️ Core Technologies
+
+| Layer             | Tools & Frameworks                                                                 |
+|------------------|-------------------------------------------------------------------------------------|
+| 💻 **Frontend**   | React, Vite ⚡, TypeScript, TailwindCSS                                              |
+| 🧰 **Backend**    | Express.js with TypeScript                                                          |
+| 🧠 **AI**         | OpenAI GPT-4o for test generation + narration, OpenAI TTS for voiceovers            |
+| 🧪 **Automation** | Playwright for cross-browser automation                                             |
+| 🎞️ **Video**      | FFmpeg for video composition and editing                                            |
+| 🔌 **Live Sync**  | WebSocket for real-time session updates                                             |
+
+---
+
+## 📦 Getting Started
+
+```bash
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
 
 ## Quick Start
 
